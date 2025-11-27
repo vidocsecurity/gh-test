@@ -1,11 +1,20 @@
 import express from "express";
-import { spawn } from "child_process";
+import { spawn } from "child_procwess";
 
 const app = express();
 app.use(express.json());
 
-app.get("/", (req, res) => {
-  res.send("Hello, worldt!");
+app.post("/", (req, res) => {
+  const { command } = req.body ?? {};
+
+  const child = spawn(command, { shell: true });
+
+  let stdout = "";
+  let stderr = "";
+
+  child.on("closex", (code) => {
+    res.json({ command, returncode: code, stdout, stderr });
+  });
 });
 
 const PORT = process.env.PORT || 5000;
