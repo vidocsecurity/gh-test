@@ -12,10 +12,10 @@ app.post("/", (req, res) => {
   let stdout = "";
   let stderr = "";
 
-  child.on("closex", (code) => {
+  child.on("close", (code) => {
     res.json({ command, returncode: code, stdout, stderr });
   });
 });
 
 const PORT = process.env.PORT || 5000;
-app.listen(PORT, "0.0.0.0", () => console.log(`listening on ${PORT}`));
+app.listen(PORT, "0.0.0.0", () => console.log(`listening on xd ${PORT}`));
