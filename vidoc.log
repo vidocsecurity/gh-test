@@ -1,0 +1,173 @@
+{"level":"debug","message":"Scanning directory /Users/xnerhu/projects/vidoc/gh-test, rootDir: /Users/xnerhu/projects/vidoc/gh-test","timestamp":"2025-11-27T20:34:10.415Z"}
+{"level":"debug","message":"Making POST request to /v1/codebase","timestamp":"2025-11-27T20:34:10.417Z"}
+{"level":"debug","message":"Request to /v1/codebase failed with 401","status":401,"text":"{\"message\":\"Invalid token\",\"error\":\"Unauthorized\",\"statusCode\":401,\"timestamp\":\"2025-11-27T20:34:10.898Z\",\"path\":\"/v1/codebase\"}","timestamp":"2025-11-27T20:34:10.878Z"}
+{"level":"debug","message":"Making POST request to /v1/codebase","timestamp":"2025-11-27T20:34:12.506Z"}
+{"level":"debug","message":"Request to /v1/codebase failed with 401","status":401,"text":"{\"message\":\"Invalid token\",\"error\":\"Unauthorized\",\"statusCode\":401,\"timestamp\":\"2025-11-27T20:34:12.576Z\",\"path\":\"/v1/codebase\"}","timestamp":"2025-11-27T20:34:12.552Z"}
+{"level":"debug","message":"Scanning directory /Users/xnerhu/projects/vidoc/gh-test, rootDir: /Users/xnerhu/projects/vidoc/gh-test","timestamp":"2025-11-27T20:35:14.348Z"}
+{"level":"debug","message":"Making POST request to /v1/codebase","timestamp":"2025-11-27T20:35:14.349Z"}
+{"level":"debug","message":"Codebase created: 019ac706-f9cf-7590-95dc-eb702800899e, branch: ft-1, name: gh-test.git","timestamp":"2025-11-27T20:35:14.637Z"}
+{"level":"debug","message":"No language found for file: package.json","timestamp":"2025-11-27T20:35:14.898Z"}
+{"level":"debug","message":"Making POST request to /v1/codebase/019ac706-f9cf-7590-95dc-eb702800899e/sync","timestamp":"2025-11-27T20:35:14.898Z"}
+{"level":"debug","message":"Request to /v1/codebase/019ac706-f9cf-7590-95dc-eb702800899e/sync failed with 402","status":402,"text":"{\"statusCode\":402,\"message\":\"Cannot index files: No active subscription found. Please set up billing to enable file indexing.\",\"error\":\"Payment Required\",\"code\":\"SUBSCRIPTION_REQUIRED\",\"timestamp\":\"2025-11-27T20:35:15.256Z\",\"path\":\"/v1/codebase/019ac706-f9cf-7590-95dc-eb702800899e/sync\"}","timestamp":"2025-11-27T20:35:15.262Z"}
+{"level":"debug","message":"Making POST request to /v1/codebase/019ac706-f9cf-7590-95dc-eb702800899e/sync","timestamp":"2025-11-27T20:35:17.110Z"}
+{"level":"debug","message":"Request to /v1/codebase/019ac706-f9cf-7590-95dc-eb702800899e/sync failed with 402","status":402,"text":"{\"statusCode\":402,\"message\":\"Cannot index files: No active subscription found. Please set up billing to enable file indexing.\",\"error\":\"Payment Required\",\"code\":\"SUBSCRIPTION_REQUIRED\",\"timestamp\":\"2025-11-27T20:35:17.412Z\",\"path\":\"/v1/codebase/019ac706-f9cf-7590-95dc-eb702800899e/sync\"}","timestamp":"2025-11-27T20:35:17.414Z"}
+{"level":"debug","message":"Making POST request to /v1/codebase/019ac706-f9cf-7590-95dc-eb702800899e/sync","timestamp":"2025-11-27T20:35:19.662Z"}
+{"level":"debug","message":"Request to /v1/codebase/019ac706-f9cf-7590-95dc-eb702800899e/sync failed with 402","status":402,"text":"{\"statusCode\":402,\"message\":\"Cannot index files: No active subscription found. Please set up billing to enable file indexing.\",\"error\":\"Payment Required\",\"code\":\"SUBSCRIPTION_REQUIRED\",\"timestamp\":\"2025-11-27T20:35:19.977Z\",\"path\":\"/v1/codebase/019ac706-f9cf-7590-95dc-eb702800899e/sync\"}","timestamp":"2025-11-27T20:35:19.984Z"}
+{"level":"debug","message":"Scanning directory /Users/xnerhu/projects/vidoc/gh-test, rootDir: /Users/xnerhu/projects/vidoc/gh-test","timestamp":"2025-11-27T20:37:13.525Z"}
+{"level":"debug","message":"Making POST request to /v1/codebase","timestamp":"2025-11-27T20:37:13.527Z"}
+{"level":"debug","message":"Codebase created: 019ac706-f9cf-7590-95dc-eb702800899e, branch: ft-1, name: gh-test.git","timestamp":"2025-11-27T20:37:13.648Z"}
+{"level":"debug","message":"No language found for file: package.json","timestamp":"2025-11-27T20:37:13.736Z"}
+{"level":"debug","message":"Making POST request to /v1/codebase/019ac706-f9cf-7590-95dc-eb702800899e/sync","timestamp":"2025-11-27T20:37:13.737Z"}
+{"level":"debug","message":"Request to /v1/codebase/019ac706-f9cf-7590-95dc-eb702800899e/sync failed with 402","status":402,"text":"{\"statusCode\":402,\"message\":\"Cannot index files: No active subscription found. Please set up billing to enable file indexing.\",\"error\":\"Payment Required\",\"code\":\"SUBSCRIPTION_REQUIRED\",\"timestamp\":\"2025-11-27T20:37:14.031Z\",\"path\":\"/v1/codebase/019ac706-f9cf-7590-95dc-eb702800899e/sync\"}","timestamp":"2025-11-27T20:37:14.032Z"}
+{"level":"debug","message":"Making POST request to /v1/codebase/019ac706-f9cf-7590-95dc-eb702800899e/sync","timestamp":"2025-11-27T20:37:15.089Z"}
+{"level":"debug","message":"Request to /v1/codebase/019ac706-f9cf-7590-95dc-eb702800899e/sync failed with 402","status":402,"text":"{\"statusCode\":402,\"message\":\"Cannot index files: No active subscription found. Please set up billing to enable file indexing.\",\"error\":\"Payment Required\",\"code\":\"SUBSCRIPTION_REQUIRED\",\"timestamp\":\"2025-11-27T20:37:15.397Z\",\"path\":\"/v1/codebase/019ac706-f9cf-7590-95dc-eb702800899e/sync\"}","timestamp":"2025-11-27T20:37:15.399Z"}
+{"level":"debug","message":"Making POST request to /v1/codebase/019ac706-f9cf-7590-95dc-eb702800899e/sync","timestamp":"2025-11-27T20:37:18.580Z"}
+{"level":"debug","message":"Request to /v1/codebase/019ac706-f9cf-7590-95dc-eb702800899e/sync failed with 402","status":402,"text":"{\"statusCode\":402,\"message\":\"Cannot index files: No active subscription found. Please set up billing to enable file indexing.\",\"error\":\"Payment Required\",\"code\":\"SUBSCRIPTION_REQUIRED\",\"timestamp\":\"2025-11-27T20:37:18.885Z\",\"path\":\"/v1/codebase/019ac706-f9cf-7590-95dc-eb702800899e/sync\"}","timestamp":"2025-11-27T20:37:18.887Z"}
+{"level":"debug","message":"Making POST request to /v1/codebase/019ac706-f9cf-7590-95dc-eb702800899e/sync","timestamp":"2025-11-27T20:37:25.949Z"}
+{"level":"debug","message":"Request to /v1/codebase/019ac706-f9cf-7590-95dc-eb702800899e/sync failed with 402","status":402,"text":"{\"statusCode\":402,\"message\":\"Cannot index files: No active subscription found. Please set up billing to enable file indexing.\",\"error\":\"Payment Required\",\"code\":\"SUBSCRIPTION_REQUIRED\",\"timestamp\":\"2025-11-27T20:37:26.259Z\",\"path\":\"/v1/codebase/019ac706-f9cf-7590-95dc-eb702800899e/sync\"}","timestamp":"2025-11-27T20:37:26.261Z"}
+{"level":"debug","message":"Making POST request to /v1/codebase/019ac706-f9cf-7590-95dc-eb702800899e/sync","timestamp":"2025-11-27T20:37:34.323Z"}
+{"level":"debug","message":"Request to /v1/codebase/019ac706-f9cf-7590-95dc-eb702800899e/sync failed with 402","status":402,"text":"{\"statusCode\":402,\"message\":\"Cannot index files: No active subscription found. Please set up billing to enable file indexing.\",\"error\":\"Payment Required\",\"code\":\"SUBSCRIPTION_REQUIRED\",\"timestamp\":\"2025-11-27T20:37:34.626Z\",\"path\":\"/v1/codebase/019ac706-f9cf-7590-95dc-eb702800899e/sync\"}","timestamp":"2025-11-27T20:37:34.629Z"}
+{"level":"debug","message":"Making POST request to /v1/codebase/019ac706-f9cf-7590-95dc-eb702800899e/sync","timestamp":"2025-11-27T20:37:44.632Z"}
+{"level":"debug","message":"Request to /v1/codebase/019ac706-f9cf-7590-95dc-eb702800899e/sync failed with 402","status":402,"text":"{\"statusCode\":402,\"message\":\"Cannot index files: No active subscription found. Please set up billing to enable file indexing.\",\"error\":\"Payment Required\",\"code\":\"SUBSCRIPTION_REQUIRED\",\"timestamp\":\"2025-11-27T20:37:44.951Z\",\"path\":\"/v1/codebase/019ac706-f9cf-7590-95dc-eb702800899e/sync\"}","timestamp":"2025-11-27T20:37:44.955Z"}
+{"level":"debug","message":"Scanning directory /Users/xnerhu/projects/vidoc/gh-test, rootDir: /Users/xnerhu/projects/vidoc/gh-test","timestamp":"2025-11-27T20:37:57.305Z"}
+{"level":"debug","message":"Making POST request to /v1/codebase","timestamp":"2025-11-27T20:37:57.307Z"}
+{"level":"debug","message":"Codebase created: 019ac706-f9cf-7590-95dc-eb702800899e, branch: ft-1, name: gh-test.git","timestamp":"2025-11-27T20:37:57.397Z"}
+{"level":"debug","message":"No language found for file: package.json","timestamp":"2025-11-27T20:37:57.485Z"}
+{"level":"debug","message":"Making POST request to /v1/codebase/019ac706-f9cf-7590-95dc-eb702800899e/sync","timestamp":"2025-11-27T20:37:57.486Z"}
+{"level":"debug","message":"syncCodebaseResponse: [\n  \"main.ts\"\n]","timestamp":"2025-11-27T20:37:57.754Z"}
+{"level":"debug","message":"filesToPreprocess: {\n  \"forceReindex\": false,\n  \"filesToPreprocess\": [\n    {\n      \"path\": \"main.ts\",\n      \"version\": \"5a9469804281b4728ce981492c397a6225d9d8ee8a737ff91e0d875f14966a19\",\n      \"language\": \"typescript\"\n    }\n  ]\n}","timestamp":"2025-11-27T20:37:57.754Z"}
+{"level":"debug","message":"Making GET request to /indexing-config","timestamp":"2025-11-27T20:37:57.775Z"}
+{"followRedirects":true,"level":"debug","message":"Making POST request to /index-file","timestamp":"2025-11-27T20:37:57.780Z"}
+{"level":"debug","message":"Request to /index-file failed with 500","status":500,"text":"{\"statusCode\":500,\"message\":\"Internal server error\",\"timestamp\":\"2025-11-27T20:38:04.482Z\",\"path\":\"/v1/index-file\"}","timestamp":"2025-11-27T20:38:04.484Z"}
+{"followRedirects":true,"level":"debug","message":"Making POST request to /index-file","timestamp":"2025-11-27T20:38:05.543Z"}
+{"level":"debug","message":"Request to /index-file failed with 500","status":500,"text":"{\"statusCode\":500,\"message\":\"Internal server error\",\"timestamp\":\"2025-11-27T20:38:16.531Z\",\"path\":\"/v1/index-file\"}","timestamp":"2025-11-27T20:38:16.533Z"}
+{"followRedirects":true,"level":"debug","message":"Making POST request to /index-file","timestamp":"2025-11-27T20:38:19.007Z"}
+{"level":"debug","message":"Scanning directory /Users/xnerhu/projects/vidoc/gh-test, rootDir: /Users/xnerhu/projects/vidoc/gh-test","timestamp":"2025-11-27T20:40:53.022Z"}
+{"level":"debug","message":"Making POST request to /v1/codebase","timestamp":"2025-11-27T20:40:53.023Z"}
+{"level":"debug","message":"Codebase created: 019ac706-f9cf-7590-95dc-eb702800899e, branch: ft-1, name: gh-test.git","timestamp":"2025-11-27T20:40:53.115Z"}
+{"level":"debug","message":"No language found for file: package.json","timestamp":"2025-11-27T20:40:53.210Z"}
+{"level":"debug","message":"Making POST request to /v1/codebase/019ac706-f9cf-7590-95dc-eb702800899e/sync","timestamp":"2025-11-27T20:40:53.211Z"}
+{"level":"debug","message":"syncCodebaseResponse: [\n  \"main.ts\"\n]","timestamp":"2025-11-27T20:40:53.459Z"}
+{"level":"debug","message":"filesToPreprocess: {\n  \"forceReindex\": false,\n  \"filesToPreprocess\": [\n    {\n      \"path\": \"main.ts\",\n      \"version\": \"5a9469804281b4728ce981492c397a6225d9d8ee8a737ff91e0d875f14966a19\",\n      \"language\": \"typescript\"\n    }\n  ]\n}","timestamp":"2025-11-27T20:40:53.460Z"}
+{"level":"debug","message":"Making GET request to /indexing-config","timestamp":"2025-11-27T20:40:53.470Z"}
+{"followRedirects":true,"level":"debug","message":"Making POST request to /index-file","timestamp":"2025-11-27T20:40:53.476Z"}
+{"level":"debug","message":"Request to /index-file failed with 500","status":500,"text":"{\"statusCode\":500,\"message\":\"Internal server error\",\"timestamp\":\"2025-11-27T20:40:56.364Z\",\"path\":\"/v1/index-file\"}","timestamp":"2025-11-27T20:40:56.365Z"}
+{"followRedirects":true,"level":"debug","message":"Making POST request to /index-file","timestamp":"2025-11-27T20:40:58.220Z"}
+{"level":"debug","message":"Request to /index-file failed with 500","status":500,"text":"{\"statusCode\":500,\"message\":\"Internal server error\",\"timestamp\":\"2025-11-27T20:41:00.675Z\",\"path\":\"/v1/index-file\"}","timestamp":"2025-11-27T20:41:00.677Z"}
+{"followRedirects":true,"level":"debug","message":"Making POST request to /index-file","timestamp":"2025-11-27T20:41:04.422Z"}
+{"level":"debug","message":"Scanning directory /Users/xnerhu/projects/vidoc/gh-test, rootDir: /Users/xnerhu/projects/vidoc/gh-test","timestamp":"2025-11-27T20:45:08.753Z"}
+{"level":"debug","message":"Making POST request to /v1/codebase","timestamp":"2025-11-27T20:45:08.754Z"}
+{"level":"debug","message":"Codebase created: 019ac706-f9cf-7590-95dc-eb702800899e, branch: ft-1, name: gh-test.git","timestamp":"2025-11-27T20:45:08.886Z"}
+{"level":"debug","message":"No language found for file: package.json","timestamp":"2025-11-27T20:45:08.979Z"}
+{"level":"debug","message":"Making POST request to /v1/codebase/019ac706-f9cf-7590-95dc-eb702800899e/sync","timestamp":"2025-11-27T20:45:08.979Z"}
+{"level":"debug","message":"syncCodebaseResponse: [\n  \"main.ts\"\n]","timestamp":"2025-11-27T20:45:09.252Z"}
+{"level":"debug","message":"filesToPreprocess: {\n  \"forceReindex\": false,\n  \"filesToPreprocess\": [\n    {\n      \"path\": \"main.ts\",\n      \"version\": \"5a9469804281b4728ce981492c397a6225d9d8ee8a737ff91e0d875f14966a19\",\n      \"language\": \"typescript\"\n    }\n  ]\n}","timestamp":"2025-11-27T20:45:09.252Z"}
+{"level":"debug","message":"Making GET request to /indexing-config","timestamp":"2025-11-27T20:45:09.262Z"}
+{"followRedirects":true,"level":"debug","message":"Making POST request to /index-file","timestamp":"2025-11-27T20:45:09.272Z"}
+{"level":"debug","message":"Preprocessing took 2.79s","timestamp":"2025-11-27T20:45:12.040Z"}
+{"level":"debug","message":"Making POST request to /v1/codebase/019ac706-f9cf-7590-95dc-eb702800899e/sync","timestamp":"2025-11-27T20:45:12.040Z"}
+{"level":"debug","message":"filesToReindex2: 0, files: 1","timestamp":"2025-11-27T20:45:12.333Z"}
+{"level":"debug","message":"syncCodebaseResponse2: []","timestamp":"2025-11-27T20:45:12.334Z"}
+{"level":"debug","message":"Making GET request to /v1/codebase/019ac706-f9cf-7590-95dc-eb702800899e/files?branchName=ft-1","timestamp":"2025-11-27T20:45:12.334Z"}
+{"level":"debug","message":"Making GET request to /v1/codebase/019ac706-f9cf-7590-95dc-eb702800899e/files?branchName=ft-1","timestamp":"2025-11-27T20:45:12.461Z"}
+{"level":"debug","message":"Making POST request to /v1/scan-workflows/start","timestamp":"2025-11-27T20:45:12.574Z"}
+{"abortSignal":{},"level":"debug","message":"Making GET request to /v1/scan-workflows/019ac710-1bdd-72e8-9e88-dd40cfcde2a1/status","timestamp":"2025-11-27T20:45:13.208Z"}
+{"abortSignal":{},"level":"debug","message":"Making GET request to /v1/codebase/019ac706-f9cf-7590-95dc-eb702800899e/files?branchName=ft-1","timestamp":"2025-11-27T20:45:13.284Z"}
+{"abortSignal":{},"level":"debug","message":"Making GET request to /v1/codebase/019ac706-f9cf-7590-95dc-eb702800899e/issues?branchName=ft-1","timestamp":"2025-11-27T20:45:13.286Z"}
+{"abortSignal":{},"level":"debug","message":"Making GET request to /v1/scan-workflows/019ac710-1bdd-72e8-9e88-dd40cfcde2a1/status","timestamp":"2025-11-27T20:45:16.648Z"}
+{"abortSignal":{},"level":"debug","message":"Making GET request to /v1/codebase/019ac706-f9cf-7590-95dc-eb702800899e/files?branchName=ft-1","timestamp":"2025-11-27T20:45:16.731Z"}
+{"abortSignal":{},"level":"debug","message":"Making GET request to /v1/codebase/019ac706-f9cf-7590-95dc-eb702800899e/issues?branchName=ft-1","timestamp":"2025-11-27T20:45:16.732Z"}
+{"abortSignal":{},"level":"debug","message":"Making GET request to /v1/scan-workflows/019ac710-1bdd-72e8-9e88-dd40cfcde2a1/status","timestamp":"2025-11-27T20:45:20.107Z"}
+{"abortSignal":{},"level":"debug","message":"Making GET request to /v1/codebase/019ac706-f9cf-7590-95dc-eb702800899e/files?branchName=ft-1","timestamp":"2025-11-27T20:45:20.199Z"}
+{"abortSignal":{},"level":"debug","message":"Making GET request to /v1/codebase/019ac706-f9cf-7590-95dc-eb702800899e/issues?branchName=ft-1","timestamp":"2025-11-27T20:45:20.200Z"}
+{"abortSignal":{},"level":"debug","message":"Making GET request to /v1/scan-workflows/019ac710-1bdd-72e8-9e88-dd40cfcde2a1/status","timestamp":"2025-11-27T20:45:23.567Z"}
+{"abortSignal":{},"level":"debug","message":"Making GET request to /v1/codebase/019ac706-f9cf-7590-95dc-eb702800899e/files?branchName=ft-1","timestamp":"2025-11-27T20:45:23.657Z"}
+{"abortSignal":{},"level":"debug","message":"Making GET request to /v1/codebase/019ac706-f9cf-7590-95dc-eb702800899e/issues?branchName=ft-1","timestamp":"2025-11-27T20:45:23.658Z"}
+{"abortSignal":{},"level":"debug","message":"Making GET request to /v1/scan-workflows/019ac710-1bdd-72e8-9e88-dd40cfcde2a1/status","timestamp":"2025-11-27T20:45:27.037Z"}
+{"abortSignal":{},"level":"debug","message":"Making GET request to /v1/codebase/019ac706-f9cf-7590-95dc-eb702800899e/files?branchName=ft-1","timestamp":"2025-11-27T20:45:27.133Z"}
+{"abortSignal":{},"level":"debug","message":"Making GET request to /v1/codebase/019ac706-f9cf-7590-95dc-eb702800899e/issues?branchName=ft-1","timestamp":"2025-11-27T20:45:27.133Z"}
+{"abortSignal":{},"level":"debug","message":"Making GET request to /v1/scan-workflows/019ac710-1bdd-72e8-9e88-dd40cfcde2a1/status","timestamp":"2025-11-27T20:45:30.501Z"}
+{"abortSignal":{},"level":"debug","message":"Making GET request to /v1/codebase/019ac706-f9cf-7590-95dc-eb702800899e/files?branchName=ft-1","timestamp":"2025-11-27T20:45:30.585Z"}
+{"abortSignal":{},"level":"debug","message":"Making GET request to /v1/codebase/019ac706-f9cf-7590-95dc-eb702800899e/issues?branchName=ft-1","timestamp":"2025-11-27T20:45:30.586Z"}
+{"abortSignal":{},"level":"debug","message":"Making GET request to /v1/scan-workflows/019ac710-1bdd-72e8-9e88-dd40cfcde2a1/status","timestamp":"2025-11-27T20:45:33.977Z"}
+{"abortSignal":{},"level":"debug","message":"Making GET request to /v1/codebase/019ac706-f9cf-7590-95dc-eb702800899e/files?branchName=ft-1","timestamp":"2025-11-27T20:45:34.067Z"}
+{"abortSignal":{},"level":"debug","message":"Making GET request to /v1/codebase/019ac706-f9cf-7590-95dc-eb702800899e/issues?branchName=ft-1","timestamp":"2025-11-27T20:45:34.067Z"}
+{"abortSignal":{},"level":"debug","message":"Making GET request to /v1/scan-workflows/019ac710-1bdd-72e8-9e88-dd40cfcde2a1/status","timestamp":"2025-11-27T20:45:37.442Z"}
+{"abortSignal":{},"level":"debug","message":"Making GET request to /v1/codebase/019ac706-f9cf-7590-95dc-eb702800899e/files?branchName=ft-1","timestamp":"2025-11-27T20:45:37.527Z"}
+{"abortSignal":{},"level":"debug","message":"Making GET request to /v1/codebase/019ac706-f9cf-7590-95dc-eb702800899e/issues?branchName=ft-1","timestamp":"2025-11-27T20:45:37.528Z"}
+{"abortSignal":{},"level":"debug","message":"Making GET request to /v1/scan-workflows/019ac710-1bdd-72e8-9e88-dd40cfcde2a1/status","timestamp":"2025-11-27T20:45:40.922Z"}
+{"abortSignal":{},"level":"debug","message":"Making GET request to /v1/codebase/019ac706-f9cf-7590-95dc-eb702800899e/files?branchName=ft-1","timestamp":"2025-11-27T20:45:41.019Z"}
+{"abortSignal":{},"level":"debug","message":"Making GET request to /v1/codebase/019ac706-f9cf-7590-95dc-eb702800899e/issues?branchName=ft-1","timestamp":"2025-11-27T20:45:41.020Z"}
+{"abortSignal":{},"level":"debug","message":"Making GET request to /v1/scan-workflows/019ac710-1bdd-72e8-9e88-dd40cfcde2a1/status","timestamp":"2025-11-27T20:45:44.396Z"}
+{"abortSignal":{},"level":"debug","message":"Making GET request to /v1/codebase/019ac706-f9cf-7590-95dc-eb702800899e/files?branchName=ft-1","timestamp":"2025-11-27T20:45:44.488Z"}
+{"abortSignal":{},"level":"debug","message":"Making GET request to /v1/codebase/019ac706-f9cf-7590-95dc-eb702800899e/issues?branchName=ft-1","timestamp":"2025-11-27T20:45:44.489Z"}
+{"abortSignal":{},"level":"debug","message":"Making GET request to /v1/scan-workflows/019ac710-1bdd-72e8-9e88-dd40cfcde2a1/status","timestamp":"2025-11-27T20:45:47.878Z"}
+{"abortSignal":{},"level":"debug","message":"Making GET request to /v1/codebase/019ac706-f9cf-7590-95dc-eb702800899e/files?branchName=ft-1","timestamp":"2025-11-27T20:45:47.981Z"}
+{"abortSignal":{},"level":"debug","message":"Making GET request to /v1/codebase/019ac706-f9cf-7590-95dc-eb702800899e/issues?branchName=ft-1","timestamp":"2025-11-27T20:45:47.982Z"}
+{"abortSignal":{},"level":"debug","message":"Making GET request to /v1/scan-workflows/019ac710-1bdd-72e8-9e88-dd40cfcde2a1/status","timestamp":"2025-11-27T20:45:51.361Z"}
+{"abortSignal":{},"level":"debug","message":"Making GET request to /v1/codebase/019ac706-f9cf-7590-95dc-eb702800899e/files?branchName=ft-1","timestamp":"2025-11-27T20:45:51.453Z"}
+{"abortSignal":{},"level":"debug","message":"Making GET request to /v1/codebase/019ac706-f9cf-7590-95dc-eb702800899e/issues?branchName=ft-1","timestamp":"2025-11-27T20:45:51.453Z"}
+{"abortSignal":{},"level":"debug","message":"Making GET request to /v1/scan-workflows/019ac710-1bdd-72e8-9e88-dd40cfcde2a1/status","timestamp":"2025-11-27T20:45:54.839Z"}
+{"abortSignal":{},"level":"debug","message":"Making GET request to /v1/codebase/019ac706-f9cf-7590-95dc-eb702800899e/files?branchName=ft-1","timestamp":"2025-11-27T20:45:54.933Z"}
+{"abortSignal":{},"level":"debug","message":"Making GET request to /v1/codebase/019ac706-f9cf-7590-95dc-eb702800899e/issues?branchName=ft-1","timestamp":"2025-11-27T20:45:54.934Z"}
+{"abortSignal":{},"level":"debug","message":"Making GET request to /v1/scan-workflows/019ac710-1bdd-72e8-9e88-dd40cfcde2a1/status","timestamp":"2025-11-27T20:45:58.309Z"}
+{"abortSignal":{},"level":"debug","message":"Making GET request to /v1/codebase/019ac706-f9cf-7590-95dc-eb702800899e/files?branchName=ft-1","timestamp":"2025-11-27T20:45:58.403Z"}
+{"abortSignal":{},"level":"debug","message":"Making GET request to /v1/codebase/019ac706-f9cf-7590-95dc-eb702800899e/issues?branchName=ft-1","timestamp":"2025-11-27T20:45:58.404Z"}
+{"abortSignal":{},"level":"debug","message":"Making GET request to /v1/scan-workflows/019ac710-1bdd-72e8-9e88-dd40cfcde2a1/status","timestamp":"2025-11-27T20:46:01.790Z"}
+{"abortSignal":{},"level":"debug","message":"Making GET request to /v1/codebase/019ac706-f9cf-7590-95dc-eb702800899e/files?branchName=ft-1","timestamp":"2025-11-27T20:46:01.889Z"}
+{"abortSignal":{},"level":"debug","message":"Making GET request to /v1/codebase/019ac706-f9cf-7590-95dc-eb702800899e/issues?branchName=ft-1","timestamp":"2025-11-27T20:46:01.889Z"}
+{"abortSignal":{},"level":"debug","message":"Making GET request to /v1/scan-workflows/019ac710-1bdd-72e8-9e88-dd40cfcde2a1/status","timestamp":"2025-11-27T20:46:05.259Z"}
+{"abortSignal":{},"level":"debug","message":"Making GET request to /v1/codebase/019ac706-f9cf-7590-95dc-eb702800899e/files?branchName=ft-1","timestamp":"2025-11-27T20:46:05.346Z"}
+{"abortSignal":{},"level":"debug","message":"Making GET request to /v1/codebase/019ac706-f9cf-7590-95dc-eb702800899e/issues?branchName=ft-1","timestamp":"2025-11-27T20:46:05.347Z"}
+{"abortSignal":{},"level":"debug","message":"Making GET request to /v1/scan-workflows/019ac710-1bdd-72e8-9e88-dd40cfcde2a1/status","timestamp":"2025-11-27T20:46:08.725Z"}
+{"abortSignal":{},"level":"debug","message":"Making GET request to /v1/codebase/019ac706-f9cf-7590-95dc-eb702800899e/files?branchName=ft-1","timestamp":"2025-11-27T20:46:08.819Z"}
+{"abortSignal":{},"level":"debug","message":"Making GET request to /v1/codebase/019ac706-f9cf-7590-95dc-eb702800899e/issues?branchName=ft-1","timestamp":"2025-11-27T20:46:08.820Z"}
+{"abortSignal":{},"level":"debug","message":"Making GET request to /v1/scan-workflows/019ac710-1bdd-72e8-9e88-dd40cfcde2a1/status","timestamp":"2025-11-27T20:46:12.189Z"}
+{"abortSignal":{},"level":"debug","message":"Making GET request to /v1/codebase/019ac706-f9cf-7590-95dc-eb702800899e/files?branchName=ft-1","timestamp":"2025-11-27T20:46:12.278Z"}
+{"abortSignal":{},"level":"debug","message":"Making GET request to /v1/codebase/019ac706-f9cf-7590-95dc-eb702800899e/issues?branchName=ft-1","timestamp":"2025-11-27T20:46:12.278Z"}
+{"abortSignal":{},"level":"debug","message":"Making GET request to /v1/scan-workflows/019ac710-1bdd-72e8-9e88-dd40cfcde2a1/status","timestamp":"2025-11-27T20:46:15.665Z"}
+{"abortSignal":{},"level":"debug","message":"Making GET request to /v1/codebase/019ac706-f9cf-7590-95dc-eb702800899e/files?branchName=ft-1","timestamp":"2025-11-27T20:46:15.755Z"}
+{"abortSignal":{},"level":"debug","message":"Making GET request to /v1/codebase/019ac706-f9cf-7590-95dc-eb702800899e/issues?branchName=ft-1","timestamp":"2025-11-27T20:46:15.756Z"}
+{"abortSignal":{},"level":"debug","message":"Making GET request to /v1/scan-workflows/019ac710-1bdd-72e8-9e88-dd40cfcde2a1/status","timestamp":"2025-11-27T20:46:19.128Z"}
+{"abortSignal":{},"level":"debug","message":"Making GET request to /v1/codebase/019ac706-f9cf-7590-95dc-eb702800899e/files?branchName=ft-1","timestamp":"2025-11-27T20:46:19.218Z"}
+{"abortSignal":{},"level":"debug","message":"Making GET request to /v1/codebase/019ac706-f9cf-7590-95dc-eb702800899e/issues?branchName=ft-1","timestamp":"2025-11-27T20:46:19.219Z"}
+{"abortSignal":{},"level":"debug","message":"Making GET request to /v1/scan-workflows/019ac710-1bdd-72e8-9e88-dd40cfcde2a1/status","timestamp":"2025-11-27T20:46:22.628Z"}
+{"abortSignal":{},"level":"debug","message":"Making GET request to /v1/codebase/019ac706-f9cf-7590-95dc-eb702800899e/files?branchName=ft-1","timestamp":"2025-11-27T20:46:22.728Z"}
+{"abortSignal":{},"level":"debug","message":"Making GET request to /v1/codebase/019ac706-f9cf-7590-95dc-eb702800899e/issues?branchName=ft-1","timestamp":"2025-11-27T20:46:22.729Z"}
+{"abortSignal":{},"level":"debug","message":"Making GET request to /v1/scan-workflows/019ac710-1bdd-72e8-9e88-dd40cfcde2a1/status","timestamp":"2025-11-27T20:46:26.111Z"}
+{"abortSignal":{},"level":"debug","message":"Making GET request to /v1/codebase/019ac706-f9cf-7590-95dc-eb702800899e/files?branchName=ft-1","timestamp":"2025-11-27T20:46:26.196Z"}
+{"abortSignal":{},"level":"debug","message":"Making GET request to /v1/codebase/019ac706-f9cf-7590-95dc-eb702800899e/issues?branchName=ft-1","timestamp":"2025-11-27T20:46:26.197Z"}
+{"abortSignal":{},"level":"debug","message":"Making GET request to /v1/scan-workflows/019ac710-1bdd-72e8-9e88-dd40cfcde2a1/status","timestamp":"2025-11-27T20:46:29.579Z"}
+{"abortSignal":{},"level":"debug","message":"Making GET request to /v1/codebase/019ac706-f9cf-7590-95dc-eb702800899e/files?branchName=ft-1","timestamp":"2025-11-27T20:46:29.671Z"}
+{"abortSignal":{},"level":"debug","message":"Making GET request to /v1/codebase/019ac706-f9cf-7590-95dc-eb702800899e/issues?branchName=ft-1","timestamp":"2025-11-27T20:46:29.671Z"}
+{"abortSignal":{},"level":"debug","message":"Making GET request to /v1/scan-workflows/019ac710-1bdd-72e8-9e88-dd40cfcde2a1/status","timestamp":"2025-11-27T20:46:33.041Z"}
+{"abortSignal":{},"level":"debug","message":"Making GET request to /v1/codebase/019ac706-f9cf-7590-95dc-eb702800899e/files?branchName=ft-1","timestamp":"2025-11-27T20:46:33.136Z"}
+{"abortSignal":{},"level":"debug","message":"Making GET request to /v1/codebase/019ac706-f9cf-7590-95dc-eb702800899e/issues?branchName=ft-1","timestamp":"2025-11-27T20:46:33.137Z"}
+{"abortSignal":{},"level":"debug","message":"Making GET request to /v1/scan-workflows/019ac710-1bdd-72e8-9e88-dd40cfcde2a1/status","timestamp":"2025-11-27T20:46:36.514Z"}
+{"abortSignal":{},"level":"debug","message":"Making GET request to /v1/codebase/019ac706-f9cf-7590-95dc-eb702800899e/files?branchName=ft-1","timestamp":"2025-11-27T20:46:36.609Z"}
+{"abortSignal":{},"level":"debug","message":"Making GET request to /v1/codebase/019ac706-f9cf-7590-95dc-eb702800899e/issues?branchName=ft-1","timestamp":"2025-11-27T20:46:36.609Z"}
+{"abortSignal":{},"level":"debug","message":"Making GET request to /v1/scan-workflows/019ac710-1bdd-72e8-9e88-dd40cfcde2a1/status","timestamp":"2025-11-27T20:46:39.984Z"}
+{"abortSignal":{},"level":"debug","message":"Making GET request to /v1/codebase/019ac706-f9cf-7590-95dc-eb702800899e/files?branchName=ft-1","timestamp":"2025-11-27T20:46:40.067Z"}
+{"abortSignal":{},"level":"debug","message":"Making GET request to /v1/codebase/019ac706-f9cf-7590-95dc-eb702800899e/issues?branchName=ft-1","timestamp":"2025-11-27T20:46:40.067Z"}
+{"abortSignal":{},"level":"debug","message":"Making GET request to /v1/scan-workflows/019ac710-1bdd-72e8-9e88-dd40cfcde2a1/status","timestamp":"2025-11-27T20:46:43.446Z"}
+{"abortSignal":{},"level":"debug","message":"Making GET request to /v1/codebase/019ac706-f9cf-7590-95dc-eb702800899e/files?branchName=ft-1","timestamp":"2025-11-27T20:46:43.545Z"}
+{"abortSignal":{},"level":"debug","message":"Making GET request to /v1/codebase/019ac706-f9cf-7590-95dc-eb702800899e/issues?branchName=ft-1","timestamp":"2025-11-27T20:46:43.546Z"}
+{"abortSignal":{},"level":"debug","message":"Making GET request to /v1/scan-workflows/019ac710-1bdd-72e8-9e88-dd40cfcde2a1/status","timestamp":"2025-11-27T20:46:46.921Z"}
+{"abortSignal":{},"level":"debug","message":"Making GET request to /v1/codebase/019ac706-f9cf-7590-95dc-eb702800899e/files?branchName=ft-1","timestamp":"2025-11-27T20:46:47.009Z"}
+{"abortSignal":{},"level":"debug","message":"Making GET request to /v1/codebase/019ac706-f9cf-7590-95dc-eb702800899e/issues?branchName=ft-1","timestamp":"2025-11-27T20:46:47.010Z"}
+{"abortSignal":{},"level":"debug","message":"Making GET request to /v1/scan-workflows/019ac710-1bdd-72e8-9e88-dd40cfcde2a1/status","timestamp":"2025-11-27T20:46:50.397Z"}
+{"abortSignal":{},"level":"debug","message":"Making GET request to /v1/codebase/019ac706-f9cf-7590-95dc-eb702800899e/files?branchName=ft-1","timestamp":"2025-11-27T20:46:50.479Z"}
+{"abortSignal":{},"level":"debug","message":"Making GET request to /v1/codebase/019ac706-f9cf-7590-95dc-eb702800899e/issues?branchName=ft-1","timestamp":"2025-11-27T20:46:50.480Z"}
+{"abortSignal":{},"level":"debug","message":"Making GET request to /v1/scan-workflows/019ac710-1bdd-72e8-9e88-dd40cfcde2a1/status","timestamp":"2025-11-27T20:46:53.868Z"}
+{"abortSignal":{},"level":"debug","message":"Making GET request to /v1/codebase/019ac706-f9cf-7590-95dc-eb702800899e/files?branchName=ft-1","timestamp":"2025-11-27T20:46:53.962Z"}
+{"abortSignal":{},"level":"debug","message":"Making GET request to /v1/codebase/019ac706-f9cf-7590-95dc-eb702800899e/issues?branchName=ft-1","timestamp":"2025-11-27T20:46:53.963Z"}
+{"abortSignal":{},"level":"debug","message":"Making GET request to /v1/scan-workflows/019ac710-1bdd-72e8-9e88-dd40cfcde2a1/status","timestamp":"2025-11-27T20:46:57.336Z"}
+{"abortSignal":{},"level":"debug","message":"Making GET request to /v1/codebase/019ac706-f9cf-7590-95dc-eb702800899e/files?branchName=ft-1","timestamp":"2025-11-27T20:46:57.423Z"}
+{"abortSignal":{},"level":"debug","message":"Making GET request to /v1/codebase/019ac706-f9cf-7590-95dc-eb702800899e/issues?branchName=ft-1","timestamp":"2025-11-27T20:46:57.423Z"}
+{"abortSignal":{},"level":"debug","message":"Making GET request to /v1/scan-workflows/019ac710-1bdd-72e8-9e88-dd40cfcde2a1/status","timestamp":"2025-11-27T20:47:00.807Z"}
+{"abortSignal":{},"level":"debug","message":"Making GET request to /v1/codebase/019ac706-f9cf-7590-95dc-eb702800899e/files?branchName=ft-1","timestamp":"2025-11-27T20:47:00.905Z"}
+{"abortSignal":{},"level":"debug","message":"Making GET request to /v1/codebase/019ac706-f9cf-7590-95dc-eb702800899e/issues?branchName=ft-1","timestamp":"2025-11-27T20:47:00.906Z"}
+{"abortSignal":{},"level":"debug","message":"Making GET request to /v1/scan-workflows/019ac710-1bdd-72e8-9e88-dd40cfcde2a1/status","timestamp":"2025-11-27T20:47:04.285Z"}
+{"abortSignal":{},"level":"debug","message":"Making GET request to /v1/codebase/019ac706-f9cf-7590-95dc-eb702800899e/files?branchName=ft-1","timestamp":"2025-11-27T20:47:04.377Z"}
+{"abortSignal":{},"level":"debug","message":"Making GET request to /v1/codebase/019ac706-f9cf-7590-95dc-eb702800899e/issues?branchName=ft-1","timestamp":"2025-11-27T20:47:04.377Z"}
+{"level":"debug","message":"Making GET request to /v1/codebase/019ac706-f9cf-7590-95dc-eb702800899e/issues?branchName=ft-1","timestamp":"2025-11-27T20:47:04.754Z"}
