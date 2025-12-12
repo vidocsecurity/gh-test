@@ -1,11 +1,6 @@
-'use strict'
-
-/**
- * Module dependencies.
- */
-
 var express = require('../../');
 var path = require('node:path');
+
 
 var app = module.exports = express();
 
